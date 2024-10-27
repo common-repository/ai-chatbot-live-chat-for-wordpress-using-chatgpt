@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AI chatbot for a website and e-commerce\n"
+"POT-Creation-Date: 2023-08-04 16:22+0530\n"
+"PO-Revision-Date: 2024-05-24 09:43+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: admin/partials/ai-chatbot-admin-display.php:13
+msgid "Details update successfully."
+msgstr ""
+
+#: admin/partials/ai-chatbot-admin-display.php:27
+msgid "Robofy AI ChatBot"
+msgstr ""
+
+#: admin/partials/ai-chatbot-admin-display.php:36
+msgid "The script / code you received from Whatso website. "
+msgstr ""
+
+#: admin/partials/ai-chatbot-admin-display.php:37
+msgid "Click here"
+msgstr ""
+
+#: admin/partials/ai-chatbot-admin-display.php:37
+msgid " to know more."
+msgstr ""
+
+#: admin/partials/ai-chatbot-admin-display.php:40
+msgid "Show bot on website : "
+msgstr ""
+
+#: admin/partials/ai-chatbot-admin-display.php:51
+msgid "Save"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "AI chatbot for a website and e-commerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.robofy.ai/wordpress-ai-chatbot"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"AI-powered chatbot reads your website content and creates a chatbot that can "
+"interact with your website visitors in a conversational manner. The chatbot "
+"can automatically answer questions, provide support, and make "
+"recommendations based on your website content."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Robofy"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.robofy.ai"
+msgstr ""
